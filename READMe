@@ -12,7 +12,7 @@ Real-Time Monitoring: A Seaborn & Matplotlib dashboard refreshing every 30 secon
 Job Scheduling: Background task orchestration via APScheduler running every 10 minutes.
 Reliability & Alerting: An SMTP Alerting System that triggers email notifications on database connection failures or pipeline crashes.
 
-🛠️ Technology Stack
+# 🛠️ Technology Stack
 Category	Tools
 Language	Python 3.10+
 Database	PostgreSQL (Hosted on Aiven Cloud)
