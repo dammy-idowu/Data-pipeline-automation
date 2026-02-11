@@ -1,7 +1,7 @@
 # 🚀 Professional Data Pipeline & Real-Time Analytics Dashboard
 A production-grade ETL (Extract, Transform, Load) pipeline built with Python, SQL, and Aiven Cloud PostgreSQL. This project automates the extraction of "dirty" enterprise data, performs complex cleaning (deduplication, standardization, imputation), and monitors business health through a real-time visualization dashboard with automated alerting.
 
-🏗️ Architecture & Features
+# 🏗️ Architecture & Features
 Cloud Infrastructure: Hosted on Aiven PostgreSQL for high availability and secure SSL connections.
 Automated ETL: A modular DataPipeline class using SQLAlchemy to handle complex joins and data cleaning logic.
 Intelligent Transformation:
