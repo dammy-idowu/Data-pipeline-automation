@@ -24,7 +24,7 @@ A production-grade ETL (Extract, Transform, Load) pipeline built with Python, SQ
 |Security |	python-dotenv (Environment Variables), SSL/TLS Encryption|<br>
 
 ## 📂 Project Structure
-text
+text<br>
 ├── .env                # Secret credentials (Database URI, SMTP details)<br>
 ├── .gitignore          # Excludes .env and caches from version control<br>
 ├── main.ipynb          # The Jupyter Notebook containing the end-to-end pipeline<br>
