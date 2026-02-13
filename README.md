@@ -8,7 +8,7 @@ A production-grade ETL (Extract, Transform, Load) pipeline built with Python, SQ
 - Deduplication: Merges redundant customer and transaction records.<br>
 - Standardization: Fixes casing errors (e.g., BOB SMITH → Bob Smith) and trims whitespace.<br>
 - Imputation: Handles missing emails and orphan support tickets using professional business logic.<br>
-- Real-Time Monitoring: A Seaborn & Matplotlib dashboard refreshing every 30 seconds.<br>
+- Real-Time Monitoring: A Seaborn & Matplotlib dashboard refreshing every 60 seconds.<br>
 - Job Scheduling: Background task orchestration via APScheduler running every 10 minutes.<br>
 - Reliability & Alerting: An SMTP Alerting System that triggers email notifications on database connection failures or pipeline crashes.<br>
 
